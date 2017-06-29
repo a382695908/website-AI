@@ -23,7 +23,7 @@ component [action] component
 复合指令：
 指令一 and 指令二
 指令一 to 指令二
-指令一then指令二
+指令一 then 指令二
 [action] 指令一 decrator ：loop document add section 4
 
 代码worker
@@ -37,9 +37,10 @@ component [action] component
 4，运营自动化系统
 5，测试自动化系统
 6，前端异常监控和性能监控与报警系统
-7，工程构建与线上打包体系
+7，just内容工程构建与线上打包体系
 8，组件化体系与公共库管理解决方案
-9，前端组件管理
+9，前端组件管理体系
+10, sketch demo file线上修改
 
 技术产品输出：
 驱动(心力态度)->发现问题->解决方案->实现能力->资源->执行->产品->运维
